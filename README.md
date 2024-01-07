@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SakshamKumar28
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
