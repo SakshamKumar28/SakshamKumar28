@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SakshamKumar28
-- 👀 I’m interested in Software Dev
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Software Development and  Web Development
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
