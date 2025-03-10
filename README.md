@@ -14,4 +14,4 @@ I am currently pursuing a B.Tech in Computer Science in my 2nd year. I have a pa
 - **Frameworks and Libraries:** React, Next.js
 
 ## 💼 Projects
-- **[Passwords Manager](#)**
+- **[Passwords Manager](https://github.com/SakshamKumar28/SafeNest-Your-Personal-Passwords-Manager.git)**
