@@ -15,4 +15,4 @@ I am currently pursuing a B.Tech in Computer Science in my 2nd year. I have a pa
 
 ## 💼 Projects
 - **[Passwords Manager](https://github.com/SakshamKumar28/SafeNest-Your-Personal-Passwords-Manager.git)**
-- **[Sole Society-Get Your Own Shoes](#)**
+- **[Sole Society-Get Your Own Shoes](https://github.com/SakshamKumar28/Sole-Society-The-Best-Shoe-Selling-Platform)**
