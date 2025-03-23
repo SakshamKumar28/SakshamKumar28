@@ -24,5 +24,5 @@ I am currently pursuing a B.Tech in Computer Science in my 2nd year. I have a pa
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamKumar28&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
-- **LinkedIn**: [Saksham Kumar](https://www.linkedin.com/in/sakshamkumar28)
-- **Twitter**: [@SakshamKumar28](https://twitter.com/SakshamKumar28)
+- **LinkedIn**: [Saksham Kumar](https://www.linkedin.com/in/saksham-kumar)
+- **Instagram**:[Code-With_Saksham](#https://www.instagram.com/code-with-saksham28)
