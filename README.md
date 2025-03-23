@@ -25,4 +25,4 @@ I am currently pursuing a B.Tech in Computer Science in my 2nd year. I have a pa
 
 ## 🔗 Connect with Me
 - **LinkedIn**: [Saksham Kumar](https://www.linkedin.com/in/saksham-kumar-863a97308)
-- **Instagram**:[Code-With_Saksham](https://www.instagram.com/code-with-saksham28)
+- **Instagram**:[Code-With_Saksham](https://www.instagram.com/code_with_saksham28)
