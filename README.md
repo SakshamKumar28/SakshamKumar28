@@ -9,9 +9,10 @@ I am currently pursuing a B.Tech in Computer Science in my 2nd year. I have a pa
 - 📫 You can reach me at: [kumarsaksham863@gmail.com](mailto:kumarsaksham863@gmail.com)
 
 ## 🛠️ Skills
-- **Languages:** Java, Python, C++, JavaScript
-- **Web Development:** HTML, CSS, Tailwind CSS, JavaScript
-- **Frameworks and Libraries:** React, Next.js
+- **Languages:** Java, Python, C++, JavaScript, TypeScript
+- **Web Development:** HTML, CSS, Tailwind CSS, JavaScript, TypeScript
+- **Frameworks and Libraries:** React, Next.js, Node.js, Express.js
+- **Databases:** MongoDB, MySQL
 - **Tools:** Git, GitHub
 - **Project Management:** GitHub Issues, Project Boards
 
