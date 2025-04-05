@@ -18,6 +18,7 @@ I am currently pursuing a B.Tech in Computer Science in my 2nd year. I have a pa
 ## 💼 Projects
 - **[Passwords Manager](https://github.com/SakshamKumar28/SafeNest-Your-Personal-Passwords-Manager.git)**: A secure and user-friendly password management application implemented with Java and JavaFX.
 - **[Sole Society-Get Your Own Shoes](https://github.com/SakshamKumar28/Sole-Society-The-Best-Shoe-Selling-Platform)**: An e-commerce platform for selling shoes, built using HTML, CSS, JavaScript, and React.
+- **[Gamified Study Planner](https://github.com/SakshamKumar28/Gamified-Study-Planner)**:A study planner application that incorporates gamification elements to enhance user engagement and productivity. Users can track their study progress, earn rewards, and stay motivated through challenges and achievements.
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakshamKumar28&show_icons=true&theme=radical)
