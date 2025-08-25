@@ -12,7 +12,7 @@
   </a>
   </p>
 
-🚀 Passionate **B.Tech Computer Science Student** (3nd Year) diving deep into the world of **Software and Web Development**. I love building dynamic, user-friendly applications and I'm always eager to learn and apply new technologies.
+🚀 Passionate **B.Tech Computer Science Student** (3rd Year) diving deep into the world of **Software and Web Development**. I love building dynamic, user-friendly applications and I'm always eager to learn and apply new technologies.
 
 ---
 
