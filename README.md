@@ -18,70 +18,65 @@
 
 ---
 
-### ⚡ About Me
-🚀 I'm a developer passionate about **Full-Stack Development**, **Machine Learning**, and building impactful software solutions.
+### ⚡ Quick Summary
+🚀 I am a developer dedicated to crafting efficient **Full-Stack Applications** and exploring the frontiers of **Artificial Intelligence**. I thrive on turning complex problems into elegant, scalable code.
 
-- 🔭 **Currently working on:** Enhancing scalable MERN stack architectures and AI integration.
-- 🌱 **Learning:** Advanced NLP techniques and cloud-native development.
-- 💡 **Interests:** Medical AI, Open Source, and high-performance Backend systems.
-- 🏠 **Fun Fact:** Most of my projects start at `localhost:3000`.
+- 🔭 **Currently Building:** High-performance MERN applications and AI-driven diagnostic tools.
+- 🌱 **Learning:** Scalable microservices and advanced deep learning optimization.
+- 💡 **Passion:** Bridging the gap between healthcare and technology.
+- 🏠 **Fun Fact:** If I'm awake, there's a 99% chance a dev server is running on `localhost:3000`.
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SakshamKumar28&theme=radical&no-frame=true" alt="Saksham's Trophies" /></a>
+### 🛠️ My Tech Toolbox
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tensorflow,sklearn,tailwind,git,postman,vscode,netlify" />
 </p>
-
----
-
-### 🛠️ Tech Stack
-
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> |
-| **Data Science** | <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pandas,numpy" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" /> |
 
 ---
 
 ### 💼 Featured Projects
 
 #### 🏥 [DOXY - Advanced Telemedicine Platform](https://github.com/SakshamKumar28/doxy)
-* **Description:** A comprehensive healthcare solution enabling seamless doctor-patient consultations through real-time communication.
-* **Tech:** MERN Stack (MongoDB, Express, React, Node.js), Socket.io, WebRTC.
+*A comprehensive healthcare ecosystem for rural and remote areas.*
+- **Key Features:** Real-time WebRTC video consultations, Socket.io messaging, and JWT-secured doctor-patient workflows.
+- **Tech:** MongoDB, Express.js, React, Node.js, WebRTC.
 
 #### 🔬 [MicroX-AI - Intelligent Pathology](https://github.com/SakshamKumar28/MicroX-AI-Updated)
-* **Description:** Revolutionizing pathology analysis through AI-driven disease detection and imaging.
-* **Tech:** Python, TensorFlow, OpenCV, FastAPI, React.
+*Revolutionizing diagnostics using Computer Vision.*
+- **Key Features:** Automated disease detection from medical imagery using deep learning models for faster pathology reporting.
+- **Tech:** Python, TensorFlow, FastAPI, OpenCV, React.
 
-#### 🎨 [Personal Portfolio](https://github.com/SakshamKumar28/Saksham_Portfolio)
-* **Description:** A high-performance, modern web portfolio showcasing professional work and technical expertise.
-* **Tech:** Next.js, TypeScript, TailwindCSS, Framer Motion.
+#### 🎨 [Modern Personal Portfolio](https://github.com/SakshamKumar28/Saksham_Portfolio)
+*My professional digital footprint.*
+- **Key Features:** High-performance UI with smooth animations and responsive architecture to showcase my full project history.
+- **Tech:** Next.js, TypeScript, TailwindCSS, Framer Motion.
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity & Stats
+*(Replaced trophies with a stable contribution visualizer)*
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakshamKumar28&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamKumar28&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SakshamKumar28&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshamKumar28&theme=radical" alt="GitHub Streak" />
+  <img src="https://img.shields.io/github/followers/SakshamKumar28?label=Followers&style=for-the-badge&color=2196f3&logo=github" />
+  <img src="https://img.shields.io/github/stars/SakshamKumar28?label=Total%20Stars&style=for-the-badge&color=ffca28&logo=github" />
+  <img src="https://img.shields.io/github/repo-count/SakshamKumar28?label=Repositories&style=for-the-badge&color=4caf50&logo=github" />
 </p>
 
 ---
 
 ### 📫 Let's Connect!
-I'm always open to discussing new projects or collaborating on innovative ideas.
+I'm always open to discussing open-source contributions, software architecture, or potential collaborations.
 
 - **LinkedIn:** [Saksham Kumar](https://www.linkedin.com/in/saksham-kumar-863a97308)
-- **Email:** kumarsaksham863@gmail.com
 - **Instagram:** [@code_with_saksham28](https://www.instagram.com/code_with_saksham28)
+- **Portfolio:** [Visit My Site](https://github.com/SakshamKumar28/Saksham_Portfolio)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SakshamKumar28&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SakshamKumar28&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
