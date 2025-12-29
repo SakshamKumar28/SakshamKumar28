@@ -75,7 +75,7 @@ I'm always open to discussing open-source contributions, software architecture, 
 
 - **LinkedIn:** [Saksham Kumar](https://www.linkedin.com/in/saksham-kumar-863a97308)
 - **Instagram:** [@code_with_saksham28](https://www.instagram.com/code_with_saksham28)
-- **Portfolio:** [Visit My Site](https://github.com/SakshamKumar28/Saksham_Portfolio)
+- **Portfolio:** [Visit My Site](https://saksham-kumar.netlify.app)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SakshamKumar28&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
