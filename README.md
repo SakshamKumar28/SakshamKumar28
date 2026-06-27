@@ -31,7 +31,7 @@
 ### 🛠️ My Tech Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tensorflow,sklearn,tailwind,git,postman,vscode,netlify" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,postman,vscode,netlify" />
 </p>
 
 ---
